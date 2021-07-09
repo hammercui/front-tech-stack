@@ -11,7 +11,7 @@
 
 * [umi.js](https://umijs.org/zh-CN)：react集成框架，对webpack的精简化封装
 * [dva.js](https://dvajs.com/guide/)：数据流集成框架，基于 redux 和 redux-saga 的数据流方案。
-* [antd ui](https://ant.design/components/overview-cn/)：蚂蚁金服开源的，游戏的react ui框架，提供各种主流的ui组件
+* [antd ui](https://ant.design/components/overview-cn/)：蚂蚁金服开源的，优秀的react ui框架，提供各种主流的ui组件
 
 
 [antd-pro 4.x](https://pro.ant.design/zh-CN/) :umi+dva+antd的综合使用demo,提供最详实的各组件使用样例，以及开发打包发布流程。建议下载该demo，并结合上述框架的文档，阅读并理解。
